@@ -19,7 +19,7 @@ ChargingPile
 
 Using `SVProgressHUD` in your app will usually look as simple as this (using Grand Central Dispatch):
 
-```
+```objective-c
 [SVProgressHUD show];
 dispatch_async(dispatch_get_global_queue(DISPATCH_QUEUE_PRIORITY_DEFAULT, 0), ^{
     // time-consuming task
@@ -33,7 +33,7 @@ dispatch_async(dispatch_get_global_queue(DISPATCH_QUEUE_PRIORITY_DEFAULT, 0), ^{
 
 You can show the status of indeterminate tasks using one of the following:
 
-```
+```objective-c
 + (void)show;
 + (void)showWithStatus:(NSString*)string;
 ```
