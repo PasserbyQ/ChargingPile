@@ -7,7 +7,7 @@ ChargingPile ([Readme语法](https://blog.csdn.net/qq_31796651/article/details/8
 
 ### Overview-概括
 
- 这是干嘛的，用了有啥好处等等
+这是干嘛的，用了有啥好处等等
 
 ### Demo-图片展示（UI层面：可选）
 
