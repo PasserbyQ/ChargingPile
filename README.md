@@ -13,8 +13,6 @@ ChargingPile
 
 ### Methods-核心方法
 
-### Methods-核心方法
-
 ### Protocols-协议 (可选)
 
 ### Properties-属性 (可选)
