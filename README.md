@@ -10,16 +10,22 @@ ChargingPile
 
 ### Overview-概括
 
-### Demo-图片展示（UI层面）
+### Demo-图片展示（UI层面：可选）
 
 ### Usage-用法（代码层面）
 
-### Methods-方法
+### Methods-核心方法
 
-### Installation-安装
+### Methods-核心方法
 
-### TODO
+### Protocols-协议 (可选)
 
-### Versioning-版本（工具版本、语言及版本）
+### Properties-属性 (可选)
+
+### Install-安装
+
+### TODO-待完成
+
+### Version-版本（该版本支持的工具版本、语言及语言版本）
 
 ### Author-作者
