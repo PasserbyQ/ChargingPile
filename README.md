@@ -1,4 +1,4 @@
-ChargingPile
+ChargingPile ([Readme语法](https://blog.csdn.net/qq_31796651/article/details/80803599))
 =================
 
 ![Pod Version](https://img.shields.io/cocoapods/v/SVProgressHUD.svg?style=flat)
@@ -7,7 +7,7 @@ ChargingPile
 
 ### Overview-概括
 
-**这是干嘛的，用了有啥好处等等**
+ 这是干嘛的，用了有啥好处等等
 
 ### Demo-图片展示（UI层面：可选）
 
@@ -74,5 +74,5 @@ pod 'SVProgressHUD'
 
 ### Author-作者
 
-xxx
+ xxx
 
