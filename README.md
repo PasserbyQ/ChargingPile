@@ -7,6 +7,8 @@ ChargingPile
 
 ### Overview-概括
 
+**这是干嘛的，用了有啥好处等等**
+
 ### Demo-图片展示（UI层面：可选）
 
 ![Screenshots_Row1](https://raw.githubusercontent.com/dzenbot/DZNEmptyDataSet/v2-swift/Examples/Applications/Screenshots/Screenshots_row1.png)
@@ -43,7 +45,15 @@ You can show the status of indeterminate tasks using one of the following:
 
 ### Protocols-协议 (可选)
 
+```objective-c
+- (void)hideAnimated:(BOOL)animated;
+```
+
 ### Properties-属性 (可选)
+
+```objective-c
+@property (nonatomic, assign) BOOL runningStatus;
+```
 
 ### Install-安装
 
@@ -52,6 +62,9 @@ pod 'SVProgressHUD'
 ```
 
 ### TODO-待完成
+
+**.还有啥没干没点数么**
+
 
 ### Version-版本
 
@@ -62,5 +75,5 @@ pod 'SVProgressHUD'
 
 ### Author-作者
 
-XXX
+xxx
 
