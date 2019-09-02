@@ -57,6 +57,7 @@ pod 'SVProgressHUD'
 
 版本  | 工具  | 语言
  ---- | ----- | ------  
+ 1.0.1  | Xcode 9+ | Swift 4+
  1.0.0  | Xcode 9+ | Swift 4+
 
 ### Author-作者
