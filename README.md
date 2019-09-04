@@ -55,12 +55,14 @@ You can show the status of indeterminate tasks using one of the following:
 ```
 
 ### Install-安装
-
+ * 手动拖入  
+ * pod
+ 
 ```ruby
 pod 'SVProgressHUD'
 ```
 
-### TODO-待完成
+### TODO-待完成 (可选)
 
  * 还有啥没干没点数么
 
