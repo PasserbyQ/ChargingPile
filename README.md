@@ -17,9 +17,9 @@ ChargingPile ([Readme语法](https://blog.csdn.net/qq_31796651/article/details/8
 
 (see sample Xcode project in `/Demo`)
 
-`XXX` is created as a singleton (i.e. it doesn't need to be explicitly allocated and instantiated; you directly call `[SVProgressHUD method]`).
+`XXX` is created as a singleton.
 
-**Use `XXX` wisely! Only use it if you absolutely need to perform a task before taking the user forward. Bad use case examples: pull to refresh, infinite scrolling, sending message.**
+**注意点.**
 
 Using `XXX` in your app will usually look as simple as this (using Grand Central Dispatch):
 
