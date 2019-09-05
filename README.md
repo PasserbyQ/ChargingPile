@@ -19,8 +19,6 @@
 
 `XXX` is created as a singleton.
 
-**注意点.**
-
 Using `XXX` in your app will usually look as simple as this (using Grand Central Dispatch):
 
 ```objective-c
